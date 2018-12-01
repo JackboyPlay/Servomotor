@@ -1,5 +1,5 @@
 # Servomotor
-Erlaubt es dir die Position des Servomotors mithilfe eines Arduinoszu steuern. Hierzu muss einfach die Position (0 - 180) in die serielle Schnittstelle eingegeben werden.
+Erlaubt es dir die Position des Servomotors mithilfe eines Arduinoszu steuern. Hierzu muss einfach die Position (0 - 180) in die serielle Schnittstelle eingegeben werden. Der Bereich ist aber oftmals auf 30° - 150° beschränkt.
 
 ## Aufbau der Schaltung
 ![image](https://github.com/JackboyPlay/Servomotor/blob/master/Schaltung_SERVO.png)
